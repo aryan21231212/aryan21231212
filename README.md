@@ -7,7 +7,7 @@
 
 
 
-## 🧠 About Me
+# 🧠 About Me
 
 - 💻 I love building full-stack web apps and diving deep into new tech.
 - 🌱 Currently focusing on **Data Structures & Algorithms**.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <img src="https://github-profile-trophy.vercel.app/?username=aryan21231212&theme=tokyonight&no-bg=true" />
 
