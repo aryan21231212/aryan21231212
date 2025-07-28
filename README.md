@@ -1,33 +1,55 @@
 <!-- README.md -->
 
-<h1 align="center">Hi 👋, I'm Aryan Pratap Singh</h1>
-<h3 align="center">Full Stack Developer | Currently Learning DSA</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey, I'm Aryan Pratap Singh 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-<br/>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=435&lines=Full+Stack+Alchemist;Turning+%3C%2Fcode%3E+into+✨+magic;Open+Source+Enthusiast;DSA+Padawan" alt="Typing SVG" />
+</h3>
 
-
-
-#  About Me
-
--  I love building full-stack web apps and diving deep into new tech.
--  Currently focusing on **Data Structures & Algorithms**.
--  Ask me about **React**, **MongoDB**, **Express**, or **TypeScript**.
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aryan21231212&show_icons=true&theme=tokyonight&hide_border=false" alt="Aryan's GitHub stats" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=aryan21231212&theme=tokyonight&hide_border=false" alt="Aryan's GitHub streak" height="180" />
- </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
+</div>
 
 ---
 
-#  Tech Stack
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryan21231212&theme=tokyonight&no-bg=true" />
+##  My Coding Triforce
+
+```javascript
+const aryan = {
+  pronouns: "he" | "him",
+  code: [JavaScript, TypeScript, Python],
+  frameworks: [React, Express, Redux],
+  databases: [MongoDB, PostgreSQL],
+  architecture: ["microservices", "serverless"],
+  currentFocus: "Conquering DSA",
+  funFact: "Can debug CSS while sleeping"
+}
+
+```
+## GitHub War Stats
+<div align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=aryan21231212&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+
+  <img src = "https://streak-stats.demolab.com?user=aryan21231212&theme=radical&hide_border=true&background=0D1117">
 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,postgres,docker,python)
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aryan21231212&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" >
+   
+
+</div>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan21231212&layout=compact&theme=tokyonight" />
 
+
+## Languages & Tools
+<img src ="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,postgres,docker,python,git,github,vscode">
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryan21231212&theme=radical&no-bg=true&no-frame=true&column=8" />
 
